@@ -1,8 +1,8 @@
 Hi there, my name is Hugo and I'm a software developer since 2025. Fascinated about technology, automation, and turning ideas into real products.
 
-Currently building Doca.gg — a service marketplace for Roblox.
+Currently building Doca.gg — a service marketplace for games.
 
-Stack: React, Vite, TypeScript, TailwindCSS, Supabase, Zustand
+Stack: React, Vite, TypeScript, TailwindCSS...
 
 💌 Get in touch Send me a DM ⤵️
 
