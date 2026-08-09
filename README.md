@@ -1,10 +1,10 @@
 <table> <tr> <td valign="middle">
 
-Hi there, my name is Hugo and I'm a software developer since 2025. Fascinated about technology, automation, and turning ideas into real products.
+**Hi there, my name is Hugo** and I'm a software developer since 2025. Fascinated about technology, automation, and turning ideas into real products.
 
-Currently building doca.gg — a service marketplace for games.
+Currently building **doca.gg** — a service marketplace for games.
 
-Stack: React, Vite, TypeScript, TailwindCSS..
+Stack: **React, Vite, TypeScript, TailwindCSS..**
 
 💌 Get in touch Send me a DM ⤵️
 
