@@ -9,9 +9,3 @@ Stack: React, Vite, TypeScript, TailwindCSS, Supabase, Zustand
 💌 Get in touch Send me a DM ⤵️
 
 <a href="mailto:hugo@doca.gg" alt="Gmail"> <img src="https://img.shields.io/badge/-hugo@doca.gg-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=hugo@doca.gg" /> </a> </td> <td valign="top"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=neryzadaa&theme=iceberg&exclude_days=Fri%2CSat" width="500" /> </a> </td> </tr> </table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=neryzadaa&theme=iceberg&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
-
-<table> <tr> <td valign="top">
-
-
